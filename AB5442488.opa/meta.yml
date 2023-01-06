@@ -1,0 +1,19 @@
+id: AB5442488
+title: A Concise Lineage Prayer
+type: translation
+pechas:
+- I9BC05A8E
+- I38FCA940
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:48:04.365453
+  last_modified_at: 2023-01-04 11:48:04.365467
+  collections:
+  - Dudjom Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9BC05A8E/C529: C446
+  I38FCA940/60AD: C446
